@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @mhaffizhhh
 - 👀 I’m interested in Data Analyst or Data Scientist
 - 🌱 I’m currently learning ML
-- 💞️ I’m looking to collaborate on NOT YET
+- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me IG: @mhaffizhh
 
 <!---
