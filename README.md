@@ -1,8 +1,19 @@
-- 👋 Hi, I’m @mhaffizhhh
-- 👀 I’m interested in Data & Machine Learning
-- 🌱 I’m currently learning Math and AI
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me [Linkedin](https://www.linkedin.com/in/mohammadhafizhefridas/)
+# Hi, I'm Hafizh 👋
+
+Fresh graduate S1 Matematika dari Universitas Pendidikan Indonesia (UPI) 
+dengan IPK 3.87. Saya passionate di bidang data analytics dan sedang aktif 
+membangun portofolio sebagai Data Analyst.
+
+## What I'm Working On
+Membangun portofolio data analyst mencakup SQL, Python, Power BI, dan Machine Learning
+menggunakan dataset e-commerce, fintech, dan kesehatan Indonesia.
+
+## Tech Stack
+PostgreSQL, Python (Pandas, NumPy, Matplotlib, Seaborn), Power BI, Excel
+
+## Let's Connect
+LinkedIn: linkedin.com/in/mohammadhafizhefridas
+Email: mohammadhafizhefridas.xiia3@gmail.com
 
 <!---
 mhaffizhhh/mhaffizhhh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
