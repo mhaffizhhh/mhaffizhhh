@@ -9,7 +9,7 @@ Membangun portofolio data analyst mencakup SQL, Microsoft Excel, Python, Power B
 menggunakan dataset e-commerce, fintech, dan kesehatan Indonesia.
 
 ## Tech Stack
-PostgreSQL, Python (Pandas, NumPy, Matplotlib, Seaborn), Power BI, Excel
+PostgreSQL, Python (Pandas, NumPy, Matplotlib, Seaborn), Power BI, Microsoft Excel
 
 ## Let's Connect
 LinkedIn: linkedin.com/in/mohammadhafizhefridas
