@@ -5,7 +5,7 @@ dengan IPK 3.87. Saya passionate di bidang data analytics dan sedang aktif
 membangun portofolio sebagai Data Analyst.
 
 ## What I'm Working On
-Membangun portofolio data analyst mencakup SQL, Python, Power BI, dan Machine Learning
+Membangun portofolio data analyst mencakup SQL, Microsoft Excel, Python, Power BI, dan Machine Learning
 menggunakan dataset e-commerce, fintech, dan kesehatan Indonesia.
 
 ## Tech Stack
